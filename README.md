@@ -29,3 +29,4 @@ you can also customize the properties of loader by following code:
  Loader.sharedInstance.backgroundColor = UIColor.black<br>
  
 
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/Loader.png)
