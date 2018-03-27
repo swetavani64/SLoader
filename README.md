@@ -28,5 +28,5 @@ you can also customize the properties of loader by following code:
  Loader.sharedInstance.movingCircleColor = UIColor.cyan<br>
  Loader.sharedInstance.backgroundColor = UIColor.black<br>
  
-
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/Loader.png)
+ 
+![Optional Text](https://raw.githubusercontent.com/username/projectname/branch/path/master/SLoader/SLoader/Loader.png)
